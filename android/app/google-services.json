@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "244666146166",
+    "project_id": "autoclub-46420",
+    "storage_bucket": "autoclub-46420.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:244666146166:android:984e5ab75984f2a4b56e57",
+        "android_client_info": {
+          "package_name": "com.app.auto_club"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "244666146166-qmtrsdjccujvrr76382bf5sisudgtee5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqUoIyhk7UDecBZ6Mt9TsgzeX0jhjrJVk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "244666146166-qmtrsdjccujvrr76382bf5sisudgtee5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
